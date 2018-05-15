@@ -425,7 +425,7 @@ guimgr.overall-gui-state = {'windowing-policy': 'combined-window',
                                 'selection_end': 401L,
                                 'selection_start': 401L,
                                 'zoom': 0L})],
-        'has-focus': True,
+        'has-focus': False,
         'locked': False},
         [loc('project/main.py')]),
                                'open_files': [u'project/main.py']},
@@ -443,8 +443,7 @@ guimgr.overall-gui-state = {'windowing-policy': 'combined-window',
                          0,
                          814,
                          867)}]}
-guimgr.recent-documents = [loc('project/main.py'),
-                           loc('project/Assets/layouts/forest.bmp')]
+guimgr.recent-documents = [loc('project/main.py')]
 guimgr.visual-state = {loc('../../../../../../../AppData/Local/Programs/Python/Python36-32/Lib/site-packages/livewires/games.py'): {'a'\
         'ttrib-starts': [('Animation',
                           780),
